@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hesen\\Desktop\\ProjectLatestApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C83808F5-1C33-4A89-88AF-A0180CE1F2A4}|ProjectLatest.BL\\ProjectLatest.BL.csproj|c:\\users\\hesen\\desktop\\projectlatestapp\\projectlatest.bl\\profiles\\accountsprofiles\\accountprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C83808F5-1C33-4A89-88AF-A0180CE1F2A4}|ProjectLatest.BL\\ProjectLatest.BL.csproj|solutionrelative:projectlatest.bl\\profiles\\accountsprofiles\\accountprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C83808F5-1C33-4A89-88AF-A0180CE1F2A4}|ProjectLatest.BL\\ProjectLatest.BL.csproj|c:\\users\\hesen\\desktop\\projectlatestapp\\projectlatest.bl\\services\\implementations\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C83808F5-1C33-4A89-88AF-A0180CE1F2A4}|ProjectLatest.BL\\ProjectLatest.BL.csproj|solutionrelative:projectlatest.bl\\services\\implementations\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF388BA-4CDE-4512-862E-A18C5F186BA5}|ProjectLatest.MVC\\ProjectLatest.MVC.csproj|c:\\users\\hesen\\desktop\\projectlatestapp\\projectlatest.mvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DF388BA-4CDE-4512-862E-A18C5F186BA5}|ProjectLatest.MVC\\ProjectLatest.MVC.csproj|solutionrelative:projectlatest.mvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF388BA-4CDE-4512-862E-A18C5F186BA5}|ProjectLatest.MVC\\ProjectLatest.MVC.csproj|c:\\users\\hesen\\desktop\\projectlatestapp\\projectlatest.mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DF388BA-4CDE-4512-862E-A18C5F186BA5}|ProjectLatest.MVC\\ProjectLatest.MVC.csproj|solutionrelative:projectlatest.mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3A201C-BC29-4A79-A7B1-FBA06C27EB67}|ProjectLatest.DAL\\ProjectLatest.DAL.csproj|c:\\users\\hesen\\desktop\\projectlatestapp\\projectlatest.dal\\migrations\\20250118121200_tontini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3A201C-BC29-4A79-A7B1-FBA06C27EB67}|ProjectLatest.DAL\\ProjectLatest.DAL.csproj|solutionrelative:projectlatest.dal\\migrations\\20250118121200_tontini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3A201C-BC29-4A79-A7B1-FBA06C27EB67}|ProjectLatest.DAL\\ProjectLatest.DAL.csproj|c:\\users\\hesen\\desktop\\projectlatestapp\\projectlatest.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3A201C-BC29-4A79-A7B1-FBA06C27EB67}|ProjectLatest.DAL\\ProjectLatest.DAL.csproj|solutionrelative:projectlatest.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF388BA-4CDE-4512-862E-A18C5F186BA5}|ProjectLatest.MVC\\ProjectLatest.MVC.csproj|c:\\users\\hesen\\desktop\\projectlatestapp\\projectlatest.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DF388BA-4CDE-4512-862E-A18C5F186BA5}|ProjectLatest.MVC\\ProjectLatest.MVC.csproj|solutionrelative:projectlatest.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF388BA-4CDE-4512-862E-A18C5F186BA5}|ProjectLatest.MVC\\ProjectLatest.MVC.csproj|c:\\users\\hesen\\desktop\\projectlatestapp\\projectlatest.mvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DF388BA-4CDE-4512-862E-A18C5F186BA5}|ProjectLatest.MVC\\ProjectLatest.MVC.csproj|solutionrelative:projectlatest.mvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF388BA-4CDE-4512-862E-A18C5F186BA5}|ProjectLatest.MVC\\ProjectLatest.MVC.csproj|c:\\users\\hesen\\desktop\\projectlatestapp\\projectlatest.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DF388BA-4CDE-4512-862E-A18C5F186BA5}|ProjectLatest.MVC\\ProjectLatest.MVC.csproj|solutionrelative:projectlatest.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF388BA-4CDE-4512-862E-A18C5F186BA5}|ProjectLatest.MVC\\ProjectLatest.MVC.csproj|c:\\users\\hesen\\desktop\\projectlatestapp\\projectlatest.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DF388BA-4CDE-4512-862E-A18C5F186BA5}|ProjectLatest.MVC\\ProjectLatest.MVC.csproj|solutionrelative:projectlatest.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C83808F5-1C33-4A89-88AF-A0180CE1F2A4}|ProjectLatest.BL\\ProjectLatest.BL.csproj|c:\\users\\hesen\\desktop\\projectlatestapp\\projectlatest.bl\\dtos\\accountsdtos\\createdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C83808F5-1C33-4A89-88AF-A0180CE1F2A4}|ProjectLatest.BL\\ProjectLatest.BL.csproj|solutionrelative:projectlatest.bl\\dtos\\accountsdtos\\createdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C83808F5-1C33-4A89-88AF-A0180CE1F2A4}|ProjectLatest.BL\\ProjectLatest.BL.csproj|c:\\users\\hesen\\desktop\\projectlatestapp\\projectlatest.bl\\dtos\\accountsdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C83808F5-1C33-4A89-88AF-A0180CE1F2A4}|ProjectLatest.BL\\ProjectLatest.BL.csproj|solutionrelative:projectlatest.bl\\dtos\\accountsdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C83808F5-1C33-4A89-88AF-A0180CE1F2A4}|ProjectLatest.BL\\ProjectLatest.BL.csproj|c:\\users\\hesen\\desktop\\projectlatestapp\\projectlatest.bl\\services\\abstractions\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C83808F5-1C33-4A89-88AF-A0180CE1F2A4}|ProjectLatest.BL\\ProjectLatest.BL.csproj|solutionrelative:projectlatest.bl\\services\\abstractions\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C83808F5-1C33-4A89-88AF-A0180CE1F2A4}|ProjectLatest.BL\\ProjectLatest.BL.csproj|c:\\users\\hesen\\desktop\\projectlatestapp\\projectlatest.bl\\services\\implementations\\exploreitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C83808F5-1C33-4A89-88AF-A0180CE1F2A4}|ProjectLatest.BL\\ProjectLatest.BL.csproj|solutionrelative:projectlatest.bl\\services\\implementations\\exploreitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF388BA-4CDE-4512-862E-A18C5F186BA5}|ProjectLatest.MVC\\ProjectLatest.MVC.csproj|c:\\users\\hesen\\desktop\\projectlatestapp\\projectlatest.mvc\\areas\\admin\\controllers\\exploreitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DF388BA-4CDE-4512-862E-A18C5F186BA5}|ProjectLatest.MVC\\ProjectLatest.MVC.csproj|solutionrelative:projectlatest.mvc\\areas\\admin\\controllers\\exploreitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF388BA-4CDE-4512-862E-A18C5F186BA5}|ProjectLatest.MVC\\ProjectLatest.MVC.csproj|c:\\users\\hesen\\desktop\\projectlatestapp\\projectlatest.mvc\\areas\\admin\\views\\exploreitem\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DF388BA-4CDE-4512-862E-A18C5F186BA5}|ProjectLatest.MVC\\ProjectLatest.MVC.csproj|solutionrelative:projectlatest.mvc\\areas\\admin\\views\\exploreitem\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF388BA-4CDE-4512-862E-A18C5F186BA5}|ProjectLatest.MVC\\ProjectLatest.MVC.csproj|c:\\users\\hesen\\desktop\\projectlatestapp\\projectlatest.mvc\\areas\\admin\\views\\exploreitem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DF388BA-4CDE-4512-862E-A18C5F186BA5}|ProjectLatest.MVC\\ProjectLatest.MVC.csproj|solutionrelative:projectlatest.mvc\\areas\\admin\\views\\exploreitem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF388BA-4CDE-4512-862E-A18C5F186BA5}|ProjectLatest.MVC\\ProjectLatest.MVC.csproj|c:\\users\\hesen\\desktop\\projectlatestapp\\projectlatest.mvc\\areas\\admin\\views\\exploreitem\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DF388BA-4CDE-4512-862E-A18C5F186BA5}|ProjectLatest.MVC\\ProjectLatest.MVC.csproj|solutionrelative:projectlatest.mvc\\areas\\admin\\views\\exploreitem\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF388BA-4CDE-4512-862E-A18C5F186BA5}|ProjectLatest.MVC\\ProjectLatest.MVC.csproj|c:\\users\\hesen\\desktop\\projectlatestapp\\projectlatest.mvc\\areas\\admin\\views\\exploreitem\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DF388BA-4CDE-4512-862E-A18C5F186BA5}|ProjectLatest.MVC\\ProjectLatest.MVC.csproj|solutionrelative:projectlatest.mvc\\areas\\admin\\views\\exploreitem\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C83808F5-1C33-4A89-88AF-A0180CE1F2A4}|ProjectLatest.BL\\ProjectLatest.BL.csproj|c:\\users\\hesen\\desktop\\projectlatestapp\\projectlatest.bl\\dtos\\exploreitemdtos\\exploreitempostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C83808F5-1C33-4A89-88AF-A0180CE1F2A4}|ProjectLatest.BL\\ProjectLatest.BL.csproj|solutionrelative:projectlatest.bl\\dtos\\exploreitemdtos\\exploreitempostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C83808F5-1C33-4A89-88AF-A0180CE1F2A4}|ProjectLatest.BL\\ProjectLatest.BL.csproj|c:\\users\\hesen\\desktop\\projectlatestapp\\projectlatest.bl\\dtos\\exploreitemdtos\\exploreitemputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C83808F5-1C33-4A89-88AF-A0180CE1F2A4}|ProjectLatest.BL\\ProjectLatest.BL.csproj|solutionrelative:projectlatest.bl\\dtos\\exploreitemdtos\\exploreitemputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF388BA-4CDE-4512-862E-A18C5F186BA5}|ProjectLatest.MVC\\ProjectLatest.MVC.csproj|c:\\users\\hesen\\desktop\\projectlatestapp\\projectlatest.mvc\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DF388BA-4CDE-4512-862E-A18C5F186BA5}|ProjectLatest.MVC\\ProjectLatest.MVC.csproj|solutionrelative:projectlatest.mvc\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 154,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountProfile.cs",
+              "DocumentMoniker": "C:\\Users\\hesen\\Desktop\\ProjectLatestApp\\ProjectLatest.BL\\Profiles\\AccountsProfiles\\AccountProfile.cs",
+              "RelativeDocumentMoniker": "ProjectLatest.BL\\Profiles\\AccountsProfiles\\AccountProfile.cs",
+              "ToolTip": "C:\\Users\\hesen\\Desktop\\ProjectLatestApp\\ProjectLatest.BL\\Profiles\\AccountsProfiles\\AccountProfile.cs",
+              "RelativeToolTip": "ProjectLatest.BL\\Profiles\\AccountsProfiles\\AccountProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T12:15:56.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250118121200_Tontini.cs",
+              "DocumentMoniker": "C:\\Users\\hesen\\Desktop\\ProjectLatestApp\\ProjectLatest.DAL\\Migrations\\20250118121200_Tontini.cs",
+              "RelativeDocumentMoniker": "ProjectLatest.DAL\\Migrations\\20250118121200_Tontini.cs",
+              "ToolTip": "C:\\Users\\hesen\\Desktop\\ProjectLatestApp\\ProjectLatest.DAL\\Migrations\\20250118121200_Tontini.cs",
+              "RelativeToolTip": "ProjectLatest.DAL\\Migrations\\20250118121200_Tontini.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T12:12:00.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hesen\\Desktop\\ProjectLatestApp\\ProjectLatest.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ProjectLatest.DAL\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\hesen\\Desktop\\ProjectLatestApp\\ProjectLatest.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "ProjectLatest.DAL\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T12:10:55.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hesen\\Desktop\\ProjectLatestApp\\ProjectLatest.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectLatest.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\hesen\\Desktop\\ProjectLatestApp\\ProjectLatest.MVC\\Program.cs",
+              "RelativeToolTip": "ProjectLatest.MVC\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T12:04:21.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\hesen\\Desktop\\ProjectLatestApp\\ProjectLatest.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ProjectLatest.MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\hesen\\Desktop\\ProjectLatestApp\\ProjectLatest.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ProjectLatest.MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T11:57:36.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\hesen\\Desktop\\ProjectLatestApp\\ProjectLatest.BL\\DTOs\\AccountsDtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "ProjectLatest.BL\\DTOs\\AccountsDtos\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\hesen\\Desktop\\ProjectLatestApp\\ProjectLatest.BL\\DTOs\\AccountsDtos\\LoginDto.cs",
+              "RelativeToolTip": "ProjectLatest.BL\\DTOs\\AccountsDtos\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T11:52:07.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\hesen\\Desktop\\ProjectLatestApp\\ProjectLatest.BL\\DTOs\\AccountsDtos\\CreateDto.cs",
+              "RelativeDocumentMoniker": "ProjectLatest.BL\\DTOs\\AccountsDtos\\CreateDto.cs",
+              "ToolTip": "C:\\Users\\hesen\\Desktop\\ProjectLatestApp\\ProjectLatest.BL\\DTOs\\AccountsDtos\\CreateDto.cs",
+              "RelativeToolTip": "ProjectLatest.BL\\DTOs\\AccountsDtos\\CreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T11:52:05.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\hesen\\Desktop\\ProjectLatestApp\\ProjectLatest.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ProjectLatest.MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\hesen\\Desktop\\ProjectLatestApp\\ProjectLatest.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ProjectLatest.MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T11:50:52.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\hesen\\Desktop\\ProjectLatestApp\\ProjectLatest.MVC\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ProjectLatest.MVC\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\hesen\\Desktop\\ProjectLatestApp\\ProjectLatest.MVC\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "ProjectLatest.MVC\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T11:45:49.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\hesen\\Desktop\\ProjectLatestApp\\ProjectLatest.MVC\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ProjectLatest.MVC\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\hesen\\Desktop\\ProjectLatestApp\\ProjectLatest.MVC\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "ProjectLatest.MVC\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T11:45:29.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\hesen\\Desktop\\ProjectLatestApp\\ProjectLatest.BL\\Services\\Abstractions\\IAccountService.cs",
+              "RelativeDocumentMoniker": "ProjectLatest.BL\\Services\\Abstractions\\IAccountService.cs",
+              "ToolTip": "C:\\Users\\hesen\\Desktop\\ProjectLatestApp\\ProjectLatest.BL\\Services\\Abstractions\\IAccountService.cs",
+              "RelativeToolTip": "ProjectLatest.BL\\Services\\Abstractions\\IAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T11:42:26.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\hesen\\Desktop\\ProjectLatestApp\\ProjectLatest.MVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ProjectLatest.MVC\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\hesen\\Desktop\\ProjectLatestApp\\ProjectLatest.MVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ProjectLatest.MVC\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T11:25:03.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\hesen\\Desktop\\ProjectLatestApp\\ProjectLatest.BL\\Services\\Implementations\\AccountService.cs",
+              "RelativeDocumentMoniker": "ProjectLatest.BL\\Services\\Implementations\\AccountService.cs",
+              "ToolTip": "C:\\Users\\hesen\\Desktop\\ProjectLatestApp\\ProjectLatest.BL\\Services\\Implementations\\AccountService.cs",
+              "RelativeToolTip": "ProjectLatest.BL\\Services\\Implementations\\AccountService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T11:23:42.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ExploreItemService.cs",
+              "DocumentMoniker": "C:\\Users\\hesen\\Desktop\\ProjectLatestApp\\ProjectLatest.BL\\Services\\Implementations\\ExploreItemService.cs",
+              "RelativeDocumentMoniker": "ProjectLatest.BL\\Services\\Implementations\\ExploreItemService.cs",
+              "ToolTip": "C:\\Users\\hesen\\Desktop\\ProjectLatestApp\\ProjectLatest.BL\\Services\\Implementations\\ExploreItemService.cs",
+              "RelativeToolTip": "ProjectLatest.BL\\Services\\Implementations\\ExploreItemService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T11:22:07.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\hesen\\Desktop\\ProjectLatestApp\\ProjectLatest.MVC\\Areas\\Admin\\Views\\ExploreItem\\Detail.cshtml",
+              "RelativeDocumentMoniker": "ProjectLatest.MVC\\Areas\\Admin\\Views\\ExploreItem\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\hesen\\Desktop\\ProjectLatestApp\\ProjectLatest.MVC\\Areas\\Admin\\Views\\ExploreItem\\Detail.cshtml",
+              "RelativeToolTip": "ProjectLatest.MVC\\Areas\\Admin\\Views\\ExploreItem\\Detail.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACsAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T11:13:53.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ExploreItemPostDto.cs",
+              "DocumentMoniker": "C:\\Users\\hesen\\Desktop\\ProjectLatestApp\\ProjectLatest.BL\\DTOs\\ExploreItemDtos\\ExploreItemPostDto.cs",
+              "RelativeDocumentMoniker": "ProjectLatest.BL\\DTOs\\ExploreItemDtos\\ExploreItemPostDto.cs",
+              "ToolTip": "C:\\Users\\hesen\\Desktop\\ProjectLatestApp\\ProjectLatest.BL\\DTOs\\ExploreItemDtos\\ExploreItemPostDto.cs",
+              "RelativeToolTip": "ProjectLatest.BL\\DTOs\\ExploreItemDtos\\ExploreItemPostDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T10:41:24.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ExploreItemPutDto.cs",
+              "DocumentMoniker": "C:\\Users\\hesen\\Desktop\\ProjectLatestApp\\ProjectLatest.BL\\DTOs\\ExploreItemDtos\\ExploreItemPutDto.cs",
+              "RelativeDocumentMoniker": "ProjectLatest.BL\\DTOs\\ExploreItemDtos\\ExploreItemPutDto.cs",
+              "ToolTip": "C:\\Users\\hesen\\Desktop\\ProjectLatestApp\\ProjectLatest.BL\\DTOs\\ExploreItemDtos\\ExploreItemPutDto.cs",
+              "RelativeToolTip": "ProjectLatest.BL\\DTOs\\ExploreItemDtos\\ExploreItemPutDto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T10:41:20.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\hesen\\Desktop\\ProjectLatestApp\\ProjectLatest.MVC\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ProjectLatest.MVC\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\hesen\\Desktop\\ProjectLatestApp\\ProjectLatest.MVC\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ProjectLatest.MVC\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T10:04:45.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\hesen\\Desktop\\ProjectLatestApp\\ProjectLatest.MVC\\Areas\\Admin\\Views\\ExploreItem\\Update.cshtml",
+              "RelativeDocumentMoniker": "ProjectLatest.MVC\\Areas\\Admin\\Views\\ExploreItem\\Update.cshtml",
+              "ToolTip": "C:\\Users\\hesen\\Desktop\\ProjectLatestApp\\ProjectLatest.MVC\\Areas\\Admin\\Views\\ExploreItem\\Update.cshtml",
+              "RelativeToolTip": "ProjectLatest.MVC\\Areas\\Admin\\Views\\ExploreItem\\Update.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T09:59:44.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExploreItemController.cs",
+              "DocumentMoniker": "C:\\Users\\hesen\\Desktop\\ProjectLatestApp\\ProjectLatest.MVC\\Areas\\Admin\\Controllers\\ExploreItemController.cs",
+              "RelativeDocumentMoniker": "ProjectLatest.MVC\\Areas\\Admin\\Controllers\\ExploreItemController.cs",
+              "ToolTip": "C:\\Users\\hesen\\Desktop\\ProjectLatestApp\\ProjectLatest.MVC\\Areas\\Admin\\Controllers\\ExploreItemController.cs",
+              "RelativeToolTip": "ProjectLatest.MVC\\Areas\\Admin\\Controllers\\ExploreItemController.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAcwKUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T09:52:04.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hesen\\Desktop\\ProjectLatestApp\\ProjectLatest.MVC\\Areas\\Admin\\Views\\ExploreItem\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjectLatest.MVC\\Areas\\Admin\\Views\\ExploreItem\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hesen\\Desktop\\ProjectLatestApp\\ProjectLatest.MVC\\Areas\\Admin\\Views\\ExploreItem\\Index.cshtml",
+              "RelativeToolTip": "ProjectLatest.MVC\\Areas\\Admin\\Views\\ExploreItem\\Index.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwEgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T09:49:29.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hesen\\Desktop\\ProjectLatestApp\\ProjectLatest.MVC\\Areas\\Admin\\Views\\ExploreItem\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProjectLatest.MVC\\Areas\\Admin\\Views\\ExploreItem\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hesen\\Desktop\\ProjectLatestApp\\ProjectLatest.MVC\\Areas\\Admin\\Views\\ExploreItem\\Create.cshtml",
+              "RelativeToolTip": "ProjectLatest.MVC\\Areas\\Admin\\Views\\ExploreItem\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T09:48:43.283Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

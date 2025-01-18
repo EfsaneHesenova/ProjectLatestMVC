@@ -1,0 +1,56 @@
+﻿@model ExploreItem;
+
+
+
+<!-- Begin Page Content -->
+<div class="container-fluid">
+
+    <!-- Page Heading -->
+    <h1 class="h3 mb-2 text-gray-800">Tables</h1>
+
+
+    <!-- DataTales Example -->
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">
+                <a asp-area="Admin" asp-controller="ExploreItem" asp-action="Index" class="btn btn-success">Go Back</a>
+            </h6>
+        </div>
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                    <thead>
+                        <tr>
+                            <th>Id</th>
+                            <th>Title</th>
+                            <th>Description</th>
+                            <th>MaxPrice</th>
+                            <th>MinPrice</th>
+                            <th>RatingCount</th>
+                            <th>Rating</th>
+                            <th>Image</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                        <tr>
+                            <td>@Model.Id</td>
+                            <td>@Model.Title</td>
+                            <td>@Model.Description</td>
+                            <td>@Model.MaxPrice</td>
+                            <td>@Model.MinPrice</td>
+                            <td>@Model.Rating</td>
+                            <td>@Model.RatingCount</td>
+                            <td><img style="width: 100px;" src="~/uploads/@Model.ImageUrl" /></td>                         
+                            </tr>
+                        
+
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+</div>
+<!-- /.container-fluid -->

@@ -1,0 +1,44 @@
+﻿@model ExploreItemPutDto;
+
+<div class="alert alert-danger m-5" role="alert">
+	<form method="post" enctype="multipart/form-data">
+		<div class="form-group">
+			<label asp-for="Title">Title</label>
+			<input asp-for="Title" class="form-control" placeholder="Title">
+		</div>
+		<div class="form-group">
+			<label asp-for="Description">Description</label>
+			<input asp-for="Description" class="form-control" placeholder="Description">
+		</div>
+		<div class="form-group">
+			<label asp-for="MinPrice">MinPrice</label>
+			<input asp-for="MinPrice" class="form-control" placeholder="MinPrice">
+		</div>
+		<div class="form-group">
+			<label asp-for="MaxPrice">MaxPrice</label>
+			<input asp-for="MaxPrice" class="form-control" placeholder="MaxPrice">
+		</div>
+		<div class="form-group">
+			<label asp-for="Rating">Rating</label>
+			<input asp-for="Rating" class="form-control" placeholder="Rating">
+		</div>
+		<div class="form-group">
+			<label asp-for="RatingCount">RatingCount</label>
+			<input asp-for="RatingCount" class="form-control" placeholder="RatingCount">
+		</div>
+		<div class="mb-3">
+			<label asp-for="Image" class="form-label">Image</label>
+			<input asp-for="Image" class="form-control">
+		</div>
+		<select asp-for="CategoryId" class="form-select" aria-label="Default select example">
+			<option selected>Select Category</option>
+			@foreach (var item in Model.Categories)
+			{
+				<option value="@item.Value">@item.Text</option>
+			}
+		</select>
+		<br>
+		<br>
+		<button type="submit" class="btn btn-success">Update</button>
+	</form>
+</div>
